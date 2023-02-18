@@ -8,6 +8,7 @@ fix skin error/bug in the pocketmine-Mp software
 
 • Perfect for your server
 
-• convert to phar first
-
 • Paste that file in the plugins folder
+
+
+
