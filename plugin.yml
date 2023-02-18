@@ -1,0 +1,6 @@
+name: oc441FixSkin
+author: oc441
+main: oc441\FixSkin\Main
+version: 1.0.0
+api: [4.0.0]
+deskripsi: This plugin can fix the skin bug that occurs on server version 1.19.60
